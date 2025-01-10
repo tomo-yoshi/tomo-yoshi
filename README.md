@@ -10,9 +10,6 @@
 
 ## Skills
 
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomo-yoshi&layout=compact&theme=radical)
-
 <img alt="Programming Languages" src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,graphql,tailwind,docker,aws,gcp,postgresql,mysql">
 
 
