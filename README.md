@@ -4,7 +4,7 @@
 - 💻 I’m currently working as a core member of the engineering team in the Marketing department at **Fresh Tracks Canada Inc.**
 - 🌱 I’m currently learning advanced Next.js App Router techniques, performance optimization, and AI-driven development.
 - 💬 Ask me about **React.js/Next.js**, **TypeScript**, and **Core Web Vitals optimization**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tomohiro/) | [GitHub](https://github.com/tomo-yoshi) | [Dev.to](https://dev.to/tomoy)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tomohiro/) | [Dev.to](https://dev.to/tomoy)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I transitioned from a government job in Japan to becoming a full-stack developer in Canada.
 
@@ -48,5 +48,4 @@
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/tomohiro/)
-- [GitHub](https://github.com/tomo-yoshi)
 - [Dev Community](https://dev.to/tomoy)
